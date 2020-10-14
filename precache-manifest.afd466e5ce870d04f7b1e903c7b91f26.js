@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1431fabfb1554e4c4d1eb58b4a3b2715",
+    "revision": "bf85fdca89b8917c3c992aee8f0ba989",
     "url": "/rent-a-car/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rent-a-car/static/css/2.546ed383.chunk.css"
   },
   {
-    "revision": "d9efd769adb1d99d5224",
+    "revision": "0ade173738241da63fb4",
     "url": "/rent-a-car/static/css/main.faedaccf.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rent-a-car/static/js/2.596b3420.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d9efd769adb1d99d5224",
-    "url": "/rent-a-car/static/js/main.e2ee1bbb.chunk.js"
+    "revision": "0ade173738241da63fb4",
+    "url": "/rent-a-car/static/js/main.856e47a8.chunk.js"
   },
   {
     "revision": "b2bb4b2269a8976c0bd1",
