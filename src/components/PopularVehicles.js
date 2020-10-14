@@ -20,7 +20,7 @@ export default function PopularVehicles() {
       <ButtonGreen
         text='View All'
         component={Link}
-        to='/vehicles'
+        to='/rent-a-car/vehicles'
         className='PopularVehiclesButton'
         style={{
           width: '120px',
