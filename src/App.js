@@ -16,23 +16,23 @@ function App() {
       <Nav/>
 
       <Switch>
-        <Route exact path='/'>
+        <Route exact path='/rent-a-car/'>
           <Home/>
         </Route>
         <Route 
           exact 
-          path='/vehicles' 
+          path='/rent-a-car/vehicles' 
           component={Vehicles}
         />
-        <Route path='/about'>
+        <Route path='/rent-a-car/about'>
           <AboutUs/>
         </Route>
-        <Route path='/contact'>
+        <Route path='/rent-a-car/contact'>
           <Contact/>
         </Route>
         <Route 
           exact
-          path='/vehicles/:vehicleId' 
+          path='/rent-a-car/vehicles/:vehicleId' 
           component={SingleCar}
         />
       </Switch>
