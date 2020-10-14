@@ -82,7 +82,7 @@ export default function NavMenuMobile() {
             <ListItem 
               button 
               component={Link}
-              to='/vehicles'
+              to='/rent-a-car/vehicles'
             >
               <ListItemIcon className={classes.center}><DriveEtaIcon /></ListItemIcon>
               <ListItemText className={classes.listText} primary='Vehicles' />
@@ -90,7 +90,7 @@ export default function NavMenuMobile() {
             <ListItem 
               button 
               component={Link} 
-              to='/about'
+              to='/rent-a-car/about'
             >
               <ListItemIcon className={classes.center}><InfoIcon /></ListItemIcon>
               <ListItemText className={classes.listText} primary='About Us' />
@@ -98,7 +98,7 @@ export default function NavMenuMobile() {
             <ListItem 
               button 
               component={Link} 
-              to='/contact'
+              to='/rent-a-car/contact'
             >
               <ListItemIcon className={classes.center}><MailIcon /></ListItemIcon>
               <ListItemText className={classes.listText} primary='Contact' />

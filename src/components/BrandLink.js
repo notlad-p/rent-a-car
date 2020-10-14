@@ -15,7 +15,7 @@ const BrandedLink = withStyles(() => ({
 
 export default function BrandLink(props) {
   return (
-    <BrandedLink component={RouterLink} to='//rent-a-car/' >
+    <BrandedLink component={RouterLink} to='/rent-a-car/' >
       <h3 className='NavBrand' style={props.style}>
         Rent
         <span className='NavSpan'>-a-</span>

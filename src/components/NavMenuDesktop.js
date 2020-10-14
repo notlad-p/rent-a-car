@@ -40,21 +40,21 @@ export default function NavMenuDesktop() {
         <Button 
           className={classes.button}
           component={Link}
-          to='/vehicles' 
+          to='/rent-a-car/vehicles' 
         >
           Vehicles
         </Button>
         <Button 
           className={classes.button} 
           component={Link}
-          to='/about'
+          to='/rent-a-car/about'
         >
           About Us
         </Button>
         <Button 
           className={classes.button} 
           component={Link}
-          to='/contact'
+          to='/rent-a-car/contact'
         >
           Contact
         </Button>

@@ -73,7 +73,7 @@ export default function Footer() {
           className={classes.link}
           color="inherit"
           component={RouterLink}
-          to='/'
+          to='/rent-a-car/'
         >
           Home
         </Link>
@@ -84,7 +84,7 @@ export default function Footer() {
           className={classes.link}
           color="inherit"
           component={RouterLink}
-          to='/vehicles'
+          to='/rent-a-car/vehicles'
         >
           Vehicles
         </Link>
@@ -95,7 +95,7 @@ export default function Footer() {
           className={classes.link}
           color="inherit"
           component={RouterLink}
-          to='/about'
+          to='/rent-a-car/about'
         >
           About Us
         </Link>
@@ -106,7 +106,7 @@ export default function Footer() {
           className={classes.link}
           color="inherit"
           component={RouterLink}
-          to='/contact'
+          to='/rent-a-car/contact'
         >
           Contact
         </Link>
