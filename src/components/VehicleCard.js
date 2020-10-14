@@ -45,7 +45,7 @@ export default function VehicleCard(props) {
 
   return (
     <Link 
-      to={`/vehicles/${props.carId}`}
+      to={`/rent-a-car/vehicles/${props.carId}`}
       className='RouterLink'
       ref={vehicleCard}
       onMouseEnter={handleMouseEnter}

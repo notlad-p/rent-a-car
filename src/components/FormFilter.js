@@ -82,7 +82,7 @@ export default function FormFilter() {
         <ButtonGreen 
           text='Search'
           to={{
-            pathname: '/vehicles',
+            pathname: '/rent-a-car/vehicles',
             state: {
               type: type,
             }
