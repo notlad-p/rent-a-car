@@ -11,7 +11,6 @@ Clone this repository. You will need `node` and `npm` installed globally on your
 
     $ git clone https://github.com/notlad-p/rent-a-car
     $ cd rent-a-car
-    $ npm install
 
 Installing: 
 `npm install`
