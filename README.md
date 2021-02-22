@@ -2,6 +2,9 @@
 Fictional car rental site built to practice React. The components are customized from [Material-UI](https://material-ui.com/).
 
 [Demo](https://notlad-p.github.io/rent-a-car/)
+<a href='https://notlad-p.github.io/rent-a-car/' >
+![Project screen shot](https://raw.githubusercontent.com/notlad-p/react-portfolio/master/src/assets/imgs/projects/rentacar.JPG)
+</a>
 
 ## Installing & Setup
 Clone this repository. You will need `node` and `npm` installed globally on your machine.
@@ -17,7 +20,7 @@ Start Server:
 `npm start`
 
 View App:
-`localhost:3000/rent-a-car/`
+`localhost:3000`
 
 ## Built With
 
